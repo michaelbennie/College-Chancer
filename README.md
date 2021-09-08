@@ -2,15 +2,14 @@
 
 A Flutter project used to determine your chances of gerring into college.
 
-## Getting Started
+## USE
 
-This project is a starting point for a Flutter application.
+This app was sesigned to work on all major platofrms
 
-A few resources to get you started if this is your first Flutter project:
+### WEB
+The web app can be acessed from the link below.
+https://collegechancer-1.web.app/#/
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### OTHER
+Currently, the other platforms are getting compiled and setup.
+They are in a working state right now and can be compiled from source but they have not been uploaded to any appstore yet.
